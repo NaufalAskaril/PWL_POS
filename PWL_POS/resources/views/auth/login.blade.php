@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="{{ asset('adminlte/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css') }}">
     <!-- Theme style -->
     <link rel="stylesheet" href="{{ asset('adminlte/dist/css/adminlte.min.css') }}">
-    <link rel="icon" href="{{ asset('tab_logo.png') }}" type="image/png">
+    <link rel="icon" href="{{ asset('Rigen.png') }}" type="image/png">
 
     <style>
         body {
@@ -115,7 +115,7 @@
     <div class="login-box">
         <div class="card card-outline card-primary">
             <div class="card-header">
-                <a href="{{ url('/') }}" class="h1"><b>QuickSales</b></a>
+                <a href="{{ url('/') }}" class="h1"><b>Collection</b></a>
             </div>
             <div class="card-body">
                 <p class="login-box-msg">Sign in to access POS system</p>
